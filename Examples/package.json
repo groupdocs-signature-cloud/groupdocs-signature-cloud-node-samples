@@ -1,0 +1,12 @@
+{
+	"name": "group-docs.signature.cloud.node.examples",
+	"version": "0.0.0",
+	"description": "GroupDocs.Signature.Cloud.Node.Examples",
+	"main": "app.js",
+	"author": {
+		"name": ""
+	},
+	"dependencies": {
+		"groupdocs-signature-cloud": "^19.5.0"
+	}
+}
