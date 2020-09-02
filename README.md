@@ -2,7 +2,7 @@
 This repository contains [Examples](Examples) projects for [GroupDocs.Signature Cloud SDK for Node.js](https://github.com/groupdocs-signature-cloud/groupdocs-signature-cloud-node) to help you learn and write your own applications.
 
 
-[GroupDocs.Signature Cloud SDK for Node.js](https://products.groupdocs.cloud/signature/node) allows you to work with [GroupDocs.Signature Cloud API](https://products.groupdocs.cloud/signature) REST APIs in your Node.js applications.
+[GroupDocs.Signature Cloud SDK for Node.js](https://products.groupdocs.cloud/signature/nodejs) allows you to work with [GroupDocs.Signature Cloud API](https://products.groupdocs.cloud/signature) REST APIs in your Node.js applications.
 
 <p align="center">
   <a title="Download complete GroupDocs.Signature Cloud SDK Node.js Example source code" href="https://github.com/groupdocs-signature-cloud/groupdocs-signature-cloud-node-samples/archive/master.zip">
@@ -26,17 +26,9 @@ The package contains Node.js examples. Follow the given steps to proceed run:
 * Execute "npm update" command
 * Run examples using "npm run-script start" command
 
-For more details, visit  [Getting Started](https://wiki.groupdocs.cloud/signaturecloud/getting-started/quick-start).
+For more details, visit  [Getting Started](https://docs.groupdocs.cloud/signature/getting-started/).
 
 ## Licensing
 All GroupDocs.Signature Cloud SDKs are licensed under [MIT License](LICENSE).
 
-## Resources
-+ [**Website**](https://www.groupdocs.cloud)
-+ [**Product Home**](https://products.groupdocs.cloud/signature)
-+ [**Documentation**](https://wiki.groupdocs.cloud/signaturecloud)
-+ [**Free Support Forum**](https://forum.groupdocs.cloud/c/signature)
-+ [**Blog**](https://blog.groupdocs.cloud/category/signature)
-
-## Contact Us
-Your feedback is very important to us. Please feel free to contact us using our [Support Forums](https://forum.groupdocs.cloud/c/signature).
+[Home](https://www.groupdocs.cloud/) | [Product Page](https://products.groupdocs.cloud/signature/nodejs) | [Docs](https://docs.groupdocs.cloud/signature/) | [Demos](https://products.groupdocs.app/signature/family) | [API Reference](https://apireference.groupdocs.cloud/signature/) | [Source Code](https://github.com/groupdocs-signature-cloud/groupdocs-signature-cloud-node) | [Blog](https://blog.groupdocs.cloud/category/signature/) | [Free Support](https://forum.groupdocs.cloud/c/signature) | [Free Trial](https://purchase.groupdocs.cloud/trial)
