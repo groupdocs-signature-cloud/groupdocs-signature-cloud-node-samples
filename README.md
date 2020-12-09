@@ -1,7 +1,6 @@
 ## GroupDocs.Signature Cloud SDK for Node.js Examples
 This repository contains [Examples](Examples) projects for [GroupDocs.Signature Cloud SDK for Node.js](https://github.com/groupdocs-signature-cloud/groupdocs-signature-cloud-node) to help you learn and write your own applications.
 
-
 [GroupDocs.Signature Cloud SDK for Node.js](https://products.groupdocs.cloud/signature/nodejs) allows you to work with [GroupDocs.Signature Cloud API](https://products.groupdocs.cloud/signature) REST APIs in your Node.js applications.
 
 <p align="center">
@@ -13,18 +12,18 @@ This repository contains [Examples](Examples) projects for [GroupDocs.Signature 
 ## Prerequisites
 
 + Node.js with NPM installed
-+ Get your AppSID and AppKey at [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud) (free registration is required).
++ Get your ClientId and ClientSecret at [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud) (free registration is required).
 
 ## How to Run the Examples?
 
 The package contains Node.js examples. Follow the given steps to proceed run:
 
-* Extract the downloaded project
-* Edit RunExamples.js and put appSid and appKey, obtained from [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud) there
-* Go to "Examples" directory of the project
-* Execute "npm install" command
-* Execute "npm update" command
-* Run examples using "npm run-script start" command
++ Extract the downloaded project
++ Edit RunExamples.js and put ClientId and ClientSecret, obtained from [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud) there
++ Go to "Examples" directory of the project
++ Execute "npm install" command
++ Execute "npm update" command
++ Run examples using "npm run-script start" command
 
 For more details, visit  [Getting Started](https://docs.groupdocs.cloud/signature/getting-started/).
 
