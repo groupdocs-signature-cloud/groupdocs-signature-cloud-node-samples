@@ -76,7 +76,7 @@ async function examples() {
         await require('./AdvancedUsage/Delete/DeleteBarcode').Run();
         await require('./AdvancedUsage/Delete/DeleteQRCode').Run();    
     } catch (error) {
-        
+        console.log(error);
     }
 }
 
