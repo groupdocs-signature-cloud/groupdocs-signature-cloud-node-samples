@@ -33,6 +33,9 @@ global.fileApi = signature_cloud.FileApi.fromConfig(config);
 // construct StorageApi
 global.storageApi = signature_cloud.StorageApi.fromConfig(config);
 
+// construct LicenseApi
+global.licenseApi = merger_cloud.LicenseApi.fromConfig(config);
+
 async function examples() {
 
     try {
