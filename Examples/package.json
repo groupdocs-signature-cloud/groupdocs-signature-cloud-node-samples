@@ -7,7 +7,7 @@
 		"name": "GroupDocs Product Team"
 	},
 	"dependencies": {
-		"groupdocs-signature-cloud": "^24.11"
+		"groupdocs-signature-cloud": "^24.12"
 	},
 	"scripts": {
 		"start": "node RunExamples.js"
