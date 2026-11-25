@@ -34,7 +34,7 @@ global.fileApi = signature_cloud.FileApi.fromConfig(config);
 global.storageApi = signature_cloud.StorageApi.fromConfig(config);
 
 // construct LicenseApi
-global.licenseApi = merger_cloud.LicenseApi.fromConfig(config);
+global.licenseApi = signature_cloud.LicenseApi.fromConfig(config);
 
 async function examples() {
 
@@ -57,6 +57,7 @@ async function examples() {
         await require('./AdvancedUsage/Sign/BarcodeSignature').Run();
         await require('./AdvancedUsage/Sign/CollectionSignature').Run();
         await require('./AdvancedUsage/Sign/DigitalSignature').Run();
+        await require('./AdvancedUsage/Sign/ImageDigitalSignature').Run();
         await require('./AdvancedUsage/Sign/ImageSignature').Run();
         await require('./AdvancedUsage/Sign/QRCodeSignature').Run();
         await require('./AdvancedUsage/Sign/StampSignature').Run();
@@ -70,6 +71,7 @@ async function examples() {
         await require('./AdvancedUsage/Verify/VerifyBarcode').Run();
         await require('./AdvancedUsage/Verify/VerifyCollection').Run();
         await require('./AdvancedUsage/Verify/VerifyDigital').Run();
+        await require('./AdvancedUsage/Verify/VerifyImageDigital').Run();
         await require('./AdvancedUsage/Verify/VerifyQRCode').Run();
         await require('./AdvancedUsage/Verify/VerifyText').Run();
 

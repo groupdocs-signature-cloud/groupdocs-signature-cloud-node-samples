@@ -14,6 +14,7 @@ class DigitalSignatureAppearance {
 		opts.appearance = new signature_cloud.PdfDigitalSignatureAppearance();
 		opts.appearance.appearanceType = signature_cloud.SignatureAppearance.AppearanceTypeEnum.PdfTextSticker;
 		opts.appearance.contactInfoLabel = "info@groupdocs.cloud";
+		opts.appearance.isForegroundImage = true;
 
 		let settings = new signature_cloud.SignSettings();
 		settings.fileInfo = fileInfo;
